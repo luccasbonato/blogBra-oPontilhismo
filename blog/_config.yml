@@ -42,5 +42,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-baseurl: "/blogBracoPontilhismo"
-production_url : http://luccasbonato.github.io.com/blogBracoPontilhismo
+
